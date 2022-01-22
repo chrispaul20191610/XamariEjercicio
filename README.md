@@ -17,7 +17,7 @@ Christian Llumiquinga
 
 3. Aplicación 
 
-![image](https://user-images.githubusercontent.com/66235614/150618130-a7aa1f3b-c20d-4748-93fe-672b06ec0dfa.png)
+![image](https://user-images.githubusercontent.com/66235614/150618438-e7669b1e-66d1-4263-b282-d14afdbfc7b6.png)
 ![image](https://user-images.githubusercontent.com/66235614/150618141-cb9c6abe-e32a-4d20-90ef-cee87c9b23a5.png)
 
 
